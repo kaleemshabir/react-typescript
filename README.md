@@ -1,6 +1,6 @@
 # Project Name
 
-**Brief description of the project's purpose and functionality.**
+**React Typescript starter project **
 
 ## Technologies Used
 
