@@ -33,5 +33,5 @@
 ## Getting Started
 
 1. **Prerequisites:** Node.js, npm or yarn
-2. **Installation:** Provide instructions for installing dependencies and starting the development server.
+2. **Installation:** Run command 'npm install' for installing dependencies and starting the development server.
 3. **Running the application:** npm run dev
